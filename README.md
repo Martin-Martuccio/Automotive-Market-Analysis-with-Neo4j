@@ -35,3 +35,8 @@ A comprehensive PDF document is included in this repository:
 ## Authors
 - [Martin Martuccio](https://github.com/Martin-Martuccio) - Project Author
 - [Samuele Pellegrini](https://github.com/PSamK) - Project Author
+
+Report : [Report Link](Report.pdf)
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
